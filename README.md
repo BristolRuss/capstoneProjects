@@ -18,3 +18,11 @@ When you load inventory.py you will be greated with the main menu below:
 ![Main menu](https://i.imgur.com/kQE3eRN.png)
 
 Enter a number that collelates to the option you would like to run and press Enter. 
+
+### Screenshots
+
+![view all](https://i.imgur.com/8q7V9vp.png)
+
+![re-stock](https://i.imgur.com/y0vpu3N.png)
+
+![total value](https://i.imgur.com/41DmyTI.png)
